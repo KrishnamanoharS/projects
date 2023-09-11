@@ -1,0 +1,250 @@
+.krishna{
+	height: 20px;
+	width: 1000px;
+	background-color: ghostwhite;
+	padding-top: 5px;
+}
+.a{
+	height: 400px;
+	width: 700px;
+	background-color:  white;
+	margin-right:200px;
+     
+}
+.a1{
+	height: 300px;
+	width: 350;
+	background-color:    white;
+	float:left ;
+}
+.a11{
+	height: 70px;
+	width: 350px;
+	background-color:  white;
+}
+.a12{
+	height: 230px;
+	width: 350px;
+	background-color:  white;
+
+}
+.a111{
+	height:  15px;
+	width: 350px;
+	background-color: white;
+}
+.li{
+	 margin-top: 5px;
+}
+.a2{
+	height: 300px;
+	width:  350px;
+	background-color: grey;
+	float: right;
+}
+.b{
+	height: 220px;
+	width: 1000px;
+	background-color:  white;
+	 margin-left:50px ;
+
+}
+.b1{
+	height: 220px;
+	width: 210px;
+	background-color: orangered;
+	float: left;
+	margin-left: 20px;
+	margin-right: 20px;
+	border-radius: 10px;
+}
+.b2{
+	height: 220px;
+	width: 210px;
+	background-color:orangered;
+	float: left;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+.b3{
+	height: 220px;
+	width: 210px;
+	background-color: orangered;
+	float: left;
+	margin-right: 20px;
+	border-radius: 10px;
+}
+.b4{
+	height: 220px;
+	width: 210px;
+	background-color: orangered;
+	float: left;
+	margin-right: 20px;
+	border-radius: 10px;
+}
+.maha{
+	height: 30px;
+	width: 1000px;
+	text-align: center;
+}
+.maha1{
+	height:  300px;
+	width:  800px;
+	background-color: ghostwhite;
+	margin-left: 100px;
+}
+.maha11{
+	height:  300px;
+	width: 400px;
+	background-color:  white;
+    float: left;
+ 
+}
+.maha12{
+	height:  300px;
+	width: 400px;
+	background-color :white;
+	float: right;
+ 
+}
+.varma{
+	height:  420px;
+	width: 950px;
+	background-color:  white;
+}
+.varma1{
+	height: 420px;
+	width: 325px;
+	background-color: lightgrey;
+	float: left;
+}
+.varma2{
+	height: 420px;
+	width: 550px;
+	background-color: grey;
+	float: right;
+}
+.ramya{
+	height: 340px;
+	width: 950px;
+	background-color:  white;
+}
+.ramya1{
+   height: 20px;
+   width: 930px;
+   background-color: white;
+   text-align: center;
+}
+.ramya2{
+	height: 350px;
+	width: 950px;
+	background-color:  white;
+	margin-left: 20px;
+}
+.ramya21
+{
+	height: 340px;
+	width: 300px;
+	background-color: orangered;
+	float: left; 
+	margin-right: 15px;
+	border-radius: 7px;
+}
+.ramya22
+{
+    height: 340px;
+	width: 300px;
+	background-color: orangered;
+	float: left ;
+	margin-right: 15px;
+	border-radius: 7px; 
+}	  
+.ramya23{
+	height: 340px;
+	width: 300px;
+	background-color: orangered;
+	float:  right;
+	margin-right: 15px;
+	border-radius: 7px;
+}
+.babu{
+	height: 500px;
+	width: 950px;
+	background-color:  white;
+	margin-left: 20px;
+}
+.babu1{
+	height: 500px;
+	width: 550px;
+	background-color: grey;
+	float: left;
+}
+.babu2{
+	height: 500px;
+	width: 400px;
+	background-color:  white;
+	float: right;
+}
+.mouni{
+	height: 1100px;
+	width: 950px;
+	background-color: yellow;
+	margin-left: 20px;
+}
+.mouni1{
+	height: 200px;
+	width: 950px;
+	background-color:  orangered;
+	text-align: center;
+}
+.mouni2{
+	 height: 900px;
+	width: 950px;
+	background-color:  orangered;
+ 
+}
+.mouni21{
+	height: 400px;
+	width: 300px;
+	background-color:white ;
+	margin-right: 10px;
+	margin-left: 10px;
+	float: left;
+}
+.mouni22{
+	height: 400px;
+	width: 300px;
+	background-color:white ;
+	margin-right: 10px;
+    float: left;
+}
+.mouni23{
+	height: 400px;
+	width: 300px;
+	background-color:white ;
+	float:  left;
+}
+.mouni24{
+	height: 400px;
+	width: 300px;
+	background-color: white;
+	margin-left: 10px;
+	margin-right: 10px;
+	float: left;
+	margin-top: 10px;
+}
+.mouni25{
+	height: 400px;
+	width: 300px;
+	background-color:white;
+	margin-right: 10px;
+	float: left;
+	margin-top: 10px;
+}
+.mouni26{
+	height: 400px;
+	width: 300px;
+	background-color: white ;
+	float: left;
+	margin-top: 10px;
+}
